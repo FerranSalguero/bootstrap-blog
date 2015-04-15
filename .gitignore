@@ -37,5 +37,6 @@ Thumbs.db
 bower_components
 node_modules
 docs/assets/js/raw-files.min.js
-dist/*
+dist
 docs/_includes/customizer-variables.html
+dist/js/npm.js
