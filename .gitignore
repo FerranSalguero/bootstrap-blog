@@ -40,3 +40,5 @@ docs/assets/js/raw-files.min.js
 dist
 docs/_includes/customizer-variables.html
 dist/js/npm.js
+docs/_includes/customizer-variables.html
+docs/_includes/header.html
